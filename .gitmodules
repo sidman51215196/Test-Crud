@@ -1,0 +1,3 @@
+[submodule "crud-app"]
+	path = crud-app
+	url = https://github.com/sidman51215196/crud-demo.git
